@@ -9,4 +9,4 @@
 
 对于软件使用中的任何确定的 bug ，请开新 issue 提出或直接修改后 pr 至本项目。
 
-对于不确定的 bug 或者使用中的疑问，请在 Discussions 中提出或直接联系作者（QQ:8445685)。
+对于不确定的 bug 或者使用中的疑问，请在 Discussions 中提出或直接联系作者（QQ:8445685/Email:i@phemon.me)。
